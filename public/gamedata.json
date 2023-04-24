@@ -1,0 +1,31 @@
+{
+  "gamedatas": 
+  [
+    {
+      "id": 1,
+      "name": "Snake Runner",
+      "imageUrl": "https://i.postimg.cc/htRrRg57/snake-ladder-loading-animation.gif",
+      "gamelink":"https://anandakrishnanks.github.io/snake_game/",
+      "guide":"The Snake game is a charming and simple challenge to play during downtime. To play Snake, use the arrow keys to move the snake left, right, up, or down towards the apples. As you eat apples, the snake will get longer and more difficult to avoid.Playing the Snake game requires a lot of concentration. So, rushing can leave you prone to mistakes. Take your time and think through each move. Game ends if head touch its own body part",
+      "linktopaly":"https://anandakrishnanks.github.io/snake_game/"
+    },
+    {
+      "id": 2,
+      "name": "Tic Tac Toe",
+      "imageUrl": "https://thumbs.gfycat.com/HonestGentleFanworms-size_restricted.gif",
+      "gamelink":"https://anandakrishnanks.github.io/snake_game/",
+      "guide":"In a 3-by-3 grid game, the player who is playing 'X' always goes first. Players alternate placing Xs and Os on the board until either player has three in a row, horizontally, vertically, or diagonally or until all squares on the grid are filled. If a player is able to draw three Xs or three Os in a row, then that player wins. If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.",
+      "linktopaly":"https://anandakrishnanks.github.io/TicTacToe_Game/"
+      
+    },
+    {
+      "id": 3,
+      "name": "Sudoku",
+      "imageUrl": "https://imgs.search.brave.com/_4WOr-icyC2aY37Bl2UEoJJ1yrvdFc5Wl04n5bU4pDc/rs:fit:251:251:1/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3By/b3h5L3F0bzZBUnd1/Z3lCbkxMY3daQnNq/NUFVcXNxaHhzd21t/WW1LSDRvTWp2dzVP/RXFKd0Z0bDBQTGFH/eFE5M0FldkxpTXBL/bXVJcDEwX2dfdHBj/Y2ctUjVzZzdqUldC/SEVTUkpaVkUyT0lI/aGp0ZFZXOUNfb1ZF/RnUxUXVKMFRTYjg9/czAtZA",
+      "gamelink":"https://anandakrishnanks.github.io/snake_game/",
+      "guide":"use arrow buttons",
+      "linktopaly":"https://anandakrishnanks.github.io/snake_game/"
+      
+    }
+  ]
+}
