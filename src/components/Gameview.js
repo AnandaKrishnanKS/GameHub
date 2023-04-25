@@ -41,9 +41,9 @@ function Gameview() {
         </Row>
         <Row>
           <Col>
-            <button className="btn btn-success m-5">
-              <Link className="txtstyl text-white" to={gameid.linktopaly}>Start Game</Link>
-            </button>
+            
+              <Link className="txtstyl btn btn-success m-5 text-white fs-4" to={gameid.linktopaly}>Start Game</Link>
+              
           </Col>
         </Row>
       </Container>

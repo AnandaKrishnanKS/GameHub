@@ -20,11 +20,19 @@
     },
     {
       "id": 3,
+      "name": "Find the Pair",
+      "imageUrl": "https://imgs.search.brave.com/jkf8U7-KIggEE5GDFDbGQOo8L0TBjNq0LEDLvtMEdvY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NlLzdj/LzRlL2NlN2M0ZWMx/OWI2MTRjY2RlOWJl/OWY0NWFhOTMwMzVm/LmdpZg.gif",
+      "guide":"The objective of the Pair Memory Game is to match all the pairs of cards with identical images by flipping them over two at a time. The game is designed to test and improve your memory skills, concentration, and cognitive abilities. The player must remember the location of each card in order to match the pairs . The ultimate goal of the game is to complete it in the shortest time possible with the least number of moves.",
+      "linktopaly":"https://anandakrishnanks.github.io/Find-The-Pair/"
+      
+    },
+    {
+      "id": 4,
       "name": "Sudoku",
       "imageUrl": "https://imgs.search.brave.com/_4WOr-icyC2aY37Bl2UEoJJ1yrvdFc5Wl04n5bU4pDc/rs:fit:251:251:1/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3By/b3h5L3F0bzZBUnd1/Z3lCbkxMY3daQnNq/NUFVcXNxaHhzd21t/WW1LSDRvTWp2dzVP/RXFKd0Z0bDBQTGFH/eFE5M0FldkxpTXBL/bXVJcDEwX2dfdHBj/Y2ctUjVzZzdqUldC/SEVTUkpaVkUyT0lI/aGp0ZFZXOUNfb1ZF/RnUxUXVKMFRTYjg9/czAtZA",
       "gamelink":"https://anandakrishnanks.github.io/snake_game/",
-      "guide":"use arrow buttons",
-      "linktopaly":"https://anandakrishnanks.github.io/snake_game/"
+      "guide":"The objective of the game is to populate each field in the puzzle with a number ranging from 1 to 9. This has to be done in such a way that each number appears only once per row, once per column and once per zone. Because all these elements consist of 9 fields, all the numbers between 1 and 9 should be used (once) in each element. To palay use track pad to select the numbers from bottom row and click the number where u think is to be filled and if the number u picked is incorrect ,the number of errors u made will be displayed on top of the board ",
+      "linktopaly":"https://anandakrishnanks.github.io/Sudoku/"
       
     }
   ]
