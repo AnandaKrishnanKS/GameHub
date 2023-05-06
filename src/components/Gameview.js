@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import { Link, useParams } from "react-router-dom";
@@ -10,8 +10,12 @@ function Gameview() {
   const{gamedataList}= useSelector(state=>state.gamesReducer)
  
   
-  const gameid = gamedataList.find((item)=>item.id==params.id)
+  const gameid= gamedataList.find((item)=>item.id==params.id)
 
+
+  useEffect(()=>{
+        
+  },[])
 
   return (
     <> {
@@ -48,7 +52,9 @@ function Gameview() {
         </Row>
       </Container>
 
-      ):("")
+      ):(
+        window.location.href = "/"
+      )
     }
       
     </>
