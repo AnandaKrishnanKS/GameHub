@@ -8,6 +8,7 @@ import { Route, Routes } from 'react-router-dom';
 import Gameview from './components/Gameview';
 
 
+
 function App() {
   return (
     <div className="App">
@@ -16,6 +17,7 @@ function App() {
     <Routes>
           <Route path='/' element={<Main/>}/>   
           <Route path='/Gameview/:id' element={<Gameview/>}/> 
+          
     </Routes>
        <Footer/>
   
